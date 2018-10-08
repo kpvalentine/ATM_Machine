@@ -1,0 +1,16 @@
+[
+  {
+    "CardNum": "876543218765",
+    "Pin": "8765",
+    "LastTimeAccessed": 0.0,
+    "IsLocked": false,
+    "Balance": 1.0
+  },
+  {
+    "CardNum": "123456781234",
+    "Pin": "1234",
+    "LastTimeAccessed": 5.0,
+    "IsLocked": false,
+    "Balance": 25.5
+  }
+]

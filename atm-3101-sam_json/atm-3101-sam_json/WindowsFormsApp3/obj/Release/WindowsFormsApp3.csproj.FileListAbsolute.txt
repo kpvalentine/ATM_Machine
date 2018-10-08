@@ -1,0 +1,12 @@
+/Users/Samuller/Desktop/GitHub/atm-3101/WindowsFormsApp3/bin/Release/WindowsFormsApp3.exe.config
+/Users/Samuller/Desktop/GitHub/atm-3101/WindowsFormsApp3/bin/Release/WindowsFormsApp3.exe
+/Users/Samuller/Desktop/GitHub/atm-3101/WindowsFormsApp3/bin/Release/WindowsFormsApp3.pdb
+/Users/Samuller/Desktop/GitHub/atm-3101/WindowsFormsApp3/bin/Release/Newtonsoft.Json.dll
+/Users/Samuller/Desktop/GitHub/atm-3101/WindowsFormsApp3/bin/Release/Newtonsoft.Json.xml
+/Users/Samuller/Desktop/GitHub/atm-3101/WindowsFormsApp3/obj/Release/WindowsFormsApp3.Form1.resources
+/Users/Samuller/Desktop/GitHub/atm-3101/WindowsFormsApp3/obj/Release/WindowsFormsApp3.Properties.Resources.resources
+/Users/Samuller/Desktop/GitHub/atm-3101/WindowsFormsApp3/obj/Release/WindowsFormsApp3.csproj.GenerateResource.cache
+/Users/Samuller/Desktop/GitHub/atm-3101/WindowsFormsApp3/obj/Release/WindowsFormsApp3.csproj.CoreCompileInputs.cache
+/Users/Samuller/Desktop/GitHub/atm-3101/WindowsFormsApp3/obj/Release/WindowsFormsApp3.csproj.CopyComplete
+/Users/Samuller/Desktop/GitHub/atm-3101/WindowsFormsApp3/obj/Release/WindowsFormsApp3.exe
+/Users/Samuller/Desktop/GitHub/atm-3101/WindowsFormsApp3/obj/Release/WindowsFormsApp3.pdb
